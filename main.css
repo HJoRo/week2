@@ -1,10 +1,15 @@
 .text {
+
     background: mistyrose;
+    border-width: 5px;
+    border-style: double;
+    border-color: blueviolet; 
     
 }
 
 .content {
     border-style: dotted;
+    border-width: 5px;
     border-color: hotpink;
 }
 
