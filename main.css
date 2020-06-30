@@ -1,0 +1,13 @@
+.text {
+    background: mistyrose;
+    
+}
+
+.content {
+    border-style: dotted;
+    border-color: hotpink;
+}
+
+.morecontent {
+    background: thistle;
+}
